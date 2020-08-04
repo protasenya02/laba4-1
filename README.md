@@ -72,6 +72,7 @@ begin
 
    writeln;
    writeln('result massives:');
+   
   for i:= 1 to n1 do
    begin
     if (Bmas[i]=m) then
